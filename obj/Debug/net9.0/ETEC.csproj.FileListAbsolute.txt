@@ -1,0 +1,15 @@
+C:\Users\user\Documents\ETEC\ETEC\bin\Debug\net9.0\ETEC.exe
+C:\Users\user\Documents\ETEC\ETEC\bin\Debug\net9.0\ETEC.deps.json
+C:\Users\user\Documents\ETEC\ETEC\bin\Debug\net9.0\ETEC.runtimeconfig.json
+C:\Users\user\Documents\ETEC\ETEC\bin\Debug\net9.0\ETEC.dll
+C:\Users\user\Documents\ETEC\ETEC\bin\Debug\net9.0\ETEC.pdb
+C:\Users\user\Documents\ETEC\ETEC\obj\Debug\net9.0\ETEC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\ETEC\ETEC\obj\Debug\net9.0\ETEC.AssemblyInfoInputs.cache
+C:\Users\user\Documents\ETEC\ETEC\obj\Debug\net9.0\ETEC.AssemblyInfo.cs
+C:\Users\user\Documents\ETEC\ETEC\obj\Debug\net9.0\ETEC.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\ETEC\ETEC\obj\Debug\net9.0\ETEC.sourcelink.json
+C:\Users\user\Documents\ETEC\ETEC\obj\Debug\net9.0\ETEC.dll
+C:\Users\user\Documents\ETEC\ETEC\obj\Debug\net9.0\refint\ETEC.dll
+C:\Users\user\Documents\ETEC\ETEC\obj\Debug\net9.0\ETEC.pdb
+C:\Users\user\Documents\ETEC\ETEC\obj\Debug\net9.0\ETEC.genruntimeconfig.cache
+C:\Users\user\Documents\ETEC\ETEC\obj\Debug\net9.0\ref\ETEC.dll
